@@ -1,8 +1,0 @@
-{
-  "name": "upload",
-  "version": "0.0.1",
-  "description": "http upload",
-  "dependencies": {
-    "formidable": "^1.2.1"
-  }
-}
